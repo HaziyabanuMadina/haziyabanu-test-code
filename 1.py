@@ -10,4 +10,4 @@ class Solution:
          n = n//3
       return sign+s
 ob = Solution()
-print(ob.solve(17))
+print(ob.solve(10))
